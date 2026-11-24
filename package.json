@@ -1,0 +1,1 @@
+{"name":"pdf","version":"1.0.0","private":true,"type":"module","engines":{"node":">=18.0.0"},"scripts":{"publish:pack":"node cli.mjs","validate":"node cli.mjs --validate","list":"node cli.mjs --list"}}

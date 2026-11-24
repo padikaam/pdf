@@ -1,0 +1,12 @@
+.env
+.env.*
+node_modules/
+uploads/
+tmp-manifest*.json
+.*.tmp.*
+*.md
+scripts/
+schema/
+tests/
+.DS_Store
+Thumbs.db
